@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Things That I Love</title>
+    <title>Posts on Tastierazze</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Things That I Love</description>
+    <description>Recent content in Posts on Tastierazze</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:22:49 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 17:03:35 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primavera e Frah Quintale</title>
+      <link>http://localhost:1313/posts/primavera-e-frah-quintale/</link>
+      <pubDate>Tue, 14 Apr 2026 17:03:35 +0200</pubDate>
+      <guid>http://localhost:1313/posts/primavera-e-frah-quintale/</guid>
+      <description>&lt;p&gt;Ieri, 13 Aprile, sono andato al concerto di Frah Quintale all&amp;rsquo;Unipol Forum di Assago, devo dire rispetto ai generi che ascolto di solito è un po&amp;rsquo; un outlier, ma rimane comunque presente negli anni, tornando sempre in primavera, tanto che ormai lo associo d&amp;rsquo;istinto. Sarà per il vibe, ma per me Primavera = Frah Quintale, non solo lui ovviamente, però è uno dei principali.&lt;/p&gt;
+&lt;p&gt;Fra l&amp;rsquo;altro la primavera è la mia stagione preferita, torna il caldo e pensi già all&amp;rsquo;estate, ti viene proprio voglia di viaggiare e rilassarti, arriva un po&amp;rsquo; quella leggerezza delle vacanze, anche se quest&amp;rsquo;anno le mie dureranno poco per i troppi impegni.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tutto Pronto</title>
       <link>http://localhost:1313/posts/tutto-pronto/</link>
