@@ -23,7 +23,7 @@ L’obiettivo è semplice:
 - evitare di perdere tempo quando qualcosa viene dimenticato.
 
 Col tempo, a questo punto, ho anche deciso di usare questo spazio per parlare di molti altri argomenti.  
-Sono tematiche che ho raccolto nella sezione **“Chi sono”**, ed è proprio da lì che partirò.
+Sono tematiche che ho raccolto nella sezione [**“Chi sono”**](../../../chi-sono/), ed è proprio da lì che partirò.
 
 ---
 
