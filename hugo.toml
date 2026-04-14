@@ -9,7 +9,6 @@ theme = "PaperMod"
   ShowShareButtons = false
   ShowPostNavLinks = true
   mainSections = ["posts"]
-  
   [[params.socialIcons]]
     name = "instagram"
     url = "https://instagram.com/gabry_gonza"

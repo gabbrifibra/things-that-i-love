@@ -17,18 +17,22 @@
     <loc>http://localhost:1313/chi-sono/cosa-troverai/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patches/</loc>
-    <lastmod>2026-04-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-04-13T17:22:49+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-13T17:22:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tutto-pronto/</loc>
+    <lastmod>2026-04-13T17:22:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/patches/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/chi-sono/</loc>
     <lastmod>2026-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
